@@ -1,6 +1,13 @@
-# bmicalculator
+# BMI Calculator
 
-A new Flutter project.
+BMI Calculator.
+
+# Packages
+No addition packages.
+
+# Screen Shots
+![ScreenShot](https://github.com/Ahmed-Humishan/BMI-Calculator/assets/111582706/cb6a698e-7cc5-4984-a528-f2b1e239063d)
+
 
 ## Getting Started
 
