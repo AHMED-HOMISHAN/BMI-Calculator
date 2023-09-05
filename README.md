@@ -1,6 +1,6 @@
 # BMI Calculator
 
-BMI Calculator.
+BMI Calculator by Flutter.
 
 # Packages
 No addition packages.
