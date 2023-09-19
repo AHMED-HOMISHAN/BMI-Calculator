@@ -6,7 +6,7 @@ BMI Calculator by Flutter.
 No addition packages.
 
 # Screen Shots
-![ScreenShot](https://github.com/Ahmed-Humishan/BMI-Calculator/assets/111582706/cb6a698e-7cc5-4984-a528-f2b1e239063d)
+<img src ="https://github.com/Ahmed-Humishan/BMI-Calculator/assets/111582706/cb6a698e-7cc5-4984-a528-f2b1e239063d" width=300>
 
 
 ## Getting Started
